@@ -1,7 +1,4 @@
-# Business Analytics and AI for Decision Making (MBA17500)
-
-This repository contains study materials for **MBA17500 – Business Analytics and AI for Decision Making**.  
-All documents are organized in a simple linear list.
+Reference resources for Business Analytics and AI concepts.
 
 ---
 
