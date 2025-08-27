@@ -1,6 +1,4 @@
-Perfect! Since you’re putting all the files in a single folder named `docs`, we can simplify all the links to point there. Here’s a cleaned-up, GitHub-ready README with clickable links:
 
-```markdown
 # Module 1: Foundations of Business Analytics and AI
 
 **Course Code:** MBA17500  
@@ -37,9 +35,6 @@ This section contains all the files and resources needed for our hands-on practi
 
 - [Module 1 Practical Exercises (PPT)](docs/practical_exercises.ppt)
 - [Practice Data Files (CSV)](docs/practice_data.csv)
-```
-
-✅ Key points:
 
 1. All files are now expected in the `docs` folder.
 2. No spaces in folder or file paths → no `%20` encoding needed.
