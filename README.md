@@ -12,6 +12,7 @@ This document serves as a comprehensive resource for the first module of the cou
 
 This section covers the fundamental statistical concepts that are essential for making sense of data.
 
+- [Types of data - Qualitative abd Quantitative (PDF)](docs/Types_of_Data.pdf)
 - [Measures of Central Tendency (PDF)](docs/central_tendency.pdf)
 - [Measures of Dispersion (PPT)](docs/dispersion.ppt)
 - [Data Distribution and Relationships (PDF)](docs/distribution_and_relationships.pdf)
