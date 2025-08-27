@@ -11,9 +11,9 @@ This document serves as a comprehensive resource for the first module of the cou
 
 This section covers the fundamental statistical concepts that are essential for making sense of data.
 
-- **[Measures of Central Tendency (Mean, Median, Mode)](Module 1/theory/central_tendency.md)**
-- **[Measures of Dispersion (Range, Standard deviation)](Module 1/theory/dispersion.md)**
-- **[Data Distribution and Relationships (Skewness, Kurtosis, Correlation)](Module 1/theory/distribution_and_relationships.md)**
+- **[Measures of Central Tendency (PDF)](Module 1/theory/central_tendency.pdf)**
+- **[Measures of Dispersion (PPT)](Module 1/theory/dispersion.ppt)**
+- **[Data Distribution and Relationships (PDF)](Module 1/theory/distribution_and_relationships.pdf)**
 
 ---
 
@@ -21,10 +21,10 @@ This section covers the fundamental statistical concepts that are essential for 
 
 Here, we will place our foundational knowledge within the context of the full analytics lifecycle and the role of AI in decision-making.
 
-- **[Types of Analytics and their Business Value](Module 1/theory/types_of_analytics.md)**
-- **[The Analytics Lifecycle](Module 1/theory/analytics_lifecycle.md)**
-- **[The Role of AI in Enhancing Decisions](Module 1/theory/ai_in_decisions.md)**
-- **[Overview of Analytics and AI Tools](Module 1/theory/analytics_ai_tools.md)**
+- **[Types of Analytics and their Business Value (PDF)](Module 1/theory/types_of_analytics.pdf)**
+- **[The Analytics Lifecycle (PPT)](Module 1/theory/analytics_lifecycle.ppt)**
+- **[The Role of AI in Enhancing Decisions (PDF)](Module 1/theory/ai_in_decisions.pdf)**
+- **[Overview of Analytics and AI Tools (PPT)](Module 1/theory/analytics_ai_tools.ppt)**
 
 ---
 
@@ -32,5 +32,5 @@ Here, we will place our foundational knowledge within the context of the full an
 
 This section contains all the files and resources needed for our hands-on practical sessions in the computer lab.
 
-- **[Module 1 Practical Exercises](Module 1/practicals/)**
-- **[Practice Data Files](Module 1/data/)**
+- **[Module 1 Practical Exercises (PPT)](Module 1/practicals/practical_exercises.ppt)**
+- **[Practice Data Files (CSV)](Module 1/data/practice_data.csv)**
