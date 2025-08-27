@@ -1,4 +1,4 @@
-# Module 1: Foundations of Business Analytics and AI
+# Module 1: Introduction to Business Analytics and AI 
 
 **Course Code:** MBA17500  
 **Course Name:** Business Analytics and AI for Decision Making
