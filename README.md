@@ -36,8 +36,3 @@ This section contains all the files and resources needed for our hands-on practi
 - [Module 1 Practical Exercises (PPT)](docs/practical_exercises.ppt)
 - [Practice Data Files (CSV)](docs/practice_data.csv)
 
-1. All files are now expected in the `docs` folder.
-2. No spaces in folder or file paths → no `%20` encoding needed.
-3. All links are clickable on GitHub.
-
-If you want, I can also **add a nice table of contents with quick jump links** to each section — it makes the README look more professional and easier to navigate. Do you want me to do that?
